@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class LinearSearch {
+class BinarySearchClass {
 public static int binarySearch(int arr[], int element, int left, int right)
 	{
 	    if(right >= 0)
